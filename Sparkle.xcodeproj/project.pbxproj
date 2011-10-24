@@ -1468,7 +1468,7 @@
 				61072EAE0DF263BD008FE88B /* Release (GC dual-mode; 10.5-only) */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = "Release (GC dual-mode; 10.5-only)";
 		};
 		1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "Sparkle" */ = {
 			isa = XCConfigurationList;
@@ -1478,7 +1478,7 @@
 				61072EAD0DF263BD008FE88B /* Release (GC dual-mode; 10.5-only) */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = "Release (GC dual-mode; 10.5-only)";
 		};
 		55C14BBE136EEF1500649790 /* Build configuration list for PBXNativeTarget "finish_installation" */ = {
 			isa = XCConfigurationList;
@@ -1488,7 +1488,7 @@
 				55C14BBD136EEF1500649790 /* Release (GC dual-mode; 10.5-only) */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = "Release (GC dual-mode; 10.5-only)";
 		};
 		5D06E8DA0FD68C95005AE3F6 /* Build configuration list for PBXNativeTarget "BinaryDelta" */ = {
 			isa = XCConfigurationList;
@@ -1498,7 +1498,7 @@
 				5D06E8D40FD68C7D005AE3F6 /* Release (GC dual-mode; 10.5-only) */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = "Release (GC dual-mode; 10.5-only)";
 		};
 		612279DD0DB5470300AB99EA /* Build configuration list for PBXNativeTarget "Sparkle Unit Tests" */ = {
 			isa = XCConfigurationList;
@@ -1508,7 +1508,7 @@
 				61072EB10DF263BD008FE88B /* Release (GC dual-mode; 10.5-only) */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = "Release (GC dual-mode; 10.5-only)";
 		};
 		61B5F90509C4CEE300B25A18 /* Build configuration list for PBXNativeTarget "Sparkle Test App" */ = {
 			isa = XCConfigurationList;
@@ -1518,7 +1518,7 @@
 				61072EAF0DF263BD008FE88B /* Release (GC dual-mode; 10.5-only) */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = "Release (GC dual-mode; 10.5-only)";
 		};
 /* End XCConfigurationList section */
 	};
